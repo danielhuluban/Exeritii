@@ -1,0 +1,12 @@
+
+public class RandomSearch {
+
+	String type;
+	String departureCity;
+	String destinationCity;
+	String dapertureDate;
+	String returnDate;
+	int Adults;
+	int Children;
+	String car;
+}

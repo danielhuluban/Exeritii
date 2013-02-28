@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AllegiantSearch/AllegiantSearch.iml" filepath="$PROJECT_DIR$/AllegiantSearch/AllegiantSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Animale/Animale.iml" filepath="$PROJECT_DIR$/Animale/Animale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arguments/Arguments.iml" filepath="$PROJECT_DIR$/Arguments/Arguments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitolul1/Capitolul1.iml" filepath="$PROJECT_DIR$/Capitolul1/Capitolul1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitolul2/Capitolul2.iml" filepath="$PROJECT_DIR$/Capitolul2/Capitolul2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitolul3/Capitolul3.iml" filepath="$PROJECT_DIR$/Capitolul3/Capitolul3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWord/HelloWord.iml" filepath="$PROJECT_DIR$/HelloWord/HelloWord.iml" />
+    </modules>
+  </component>
+</project>
+
