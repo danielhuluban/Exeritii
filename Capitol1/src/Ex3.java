@@ -21,7 +21,7 @@ public class Ex3 {
         var = var / 4;
         x = x / 4;
         System.out.println("variabila var dupa impartire:\t " + var);
-        System.out.println("variabila x dupa impartire: "+ x);
+        System.out.println("variabila x dupa impartire: " + x);
 
 
     }
